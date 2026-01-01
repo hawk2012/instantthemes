@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme_info>
+    <title>IT Tech Theme</title>
+    <name>it_theme</name>
+    <version>1.0</version>
+    <author>Custom Developer</author>
+    <email>dev@example.com</email>
+    <date>2026-01-02</date>
+    <description>Modern IT and Technology theme for InstantCMS</description>
+    <wysiwyg>1</wysiwyg>
+    <stylesheet>theme.css</stylesheet>
+    <inherit>default</inherit>
+</theme_info>
