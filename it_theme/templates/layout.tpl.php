@@ -115,7 +115,7 @@
     <footer class="footer">
         <div class="container">
             <p>&copy; <?php echo date('Y'); ?> <?php echo html($config->sitename); ?>. All rights reserved.</p>
-            <p>Powered by InstantCMS | IT Tech Theme</p>
+            <p>Powered by InstantCMS | <a href="mailto:me@devfull.ru" target="_blank">IT Tech Theme by Mikhail Gubin</a></p>
         </div>
     </footer>
 
